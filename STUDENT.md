@@ -1,8 +1,7 @@
-```
-Student name: Linda Danvers
-Student number: 123456
-Course code: ITI1121
+
+Student number: 300101550
+Course code: ITI1521
 Assignment: Asg01
-Course section: 02
-Java: 1.8
-```
+Course section: 01
+Java: 13.0.2
+******************************************************************************
